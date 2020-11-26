@@ -1,0 +1,38 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-transform: none !important;
+	outline: none;
+}
+
+label {
+	font-family: 'Catamaran', sans-serif !important;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+p {
+	font-size: 17px !important;
+	font-family: 'Catamaran', sans-serif !important;
+	font-weight: 700;
+}
+
+span {
+	font-family: 'Catamaran', sans-serif !important;
+	font-weight: 700;
+	font-size: 18px;
+}
+
+h3 {
+	font-family: 'Baloo 2', cursive !important;
+	color: #282828;
+	font-weight: 700;
+}
+
+.modal.modal-static .modal-dialog {
+	-webkit-transform: none !important;
+	transform: none !important;
+}
